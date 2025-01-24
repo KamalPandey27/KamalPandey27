@@ -1,4 +1,4 @@
-
+![Master Banner](bgimage.jpeg)
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt = "Coding" width = "400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3bXIzbDZ2YTZ2YzNqcmVoaXhseTh4a3Q1dHB0NmY2dTM2MThibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"/>
