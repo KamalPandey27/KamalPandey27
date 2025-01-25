@@ -21,6 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalpandey27&show_icons=true&locale=en&layout=compact" alt="kamalpandey27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalpandey27&show_icons=true&locale=en" alt="kamalpandey27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KamalPandey27&" alt="KamalPandey27" /></p>
