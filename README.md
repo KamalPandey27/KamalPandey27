@@ -1,12 +1,12 @@
 ![Master Banner](bgimage.png)
 <h1 align="center">Hi 👋, I'm Kamal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt = "Coding" width = "400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3bXIzbDZ2YTZ2YzNqcmVoaXhseTh4a3Q1dHB0NmY2dTM2MThibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalpandey27&label=Profile%20views&color=0e75b6&style=flat" alt="kamalpandey27" /> </p>
 
 - 🌱 I’m currently learning **Backend Devlopment**
 
-- 💬 Ask me about **Tailwind CSS , Javscript , React js**
+- 💬 Ask me about **Tailwind CSS , Javscript , React js , Node Js , Express js MongoDB , PostgreSQL**
 
 - 📫 How to reach me **kamal0000027@gmail.com**
 
